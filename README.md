@@ -1,4 +1,4 @@
 # suricata
 FUNDAMENTOS DESARROLLO WEB DESAFIO SURICATA
 
-**** CORREGIR EL SEGUNDO COMMIT QUE LE HICE UN ARREGLO AL FOOTER, GRACIAS! :D *******
+**** NO revisar el primer commit que tenía un error, gracias! *******
